@@ -24,3 +24,9 @@ canvas{
     border-radius: 20px;
     box-shadow: 5px 5px 5px black;
 }
+
+#square_side{
+    color:aliceblue;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
